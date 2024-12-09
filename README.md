@@ -1,0 +1,1 @@
+Install Azure Cli in windows - https://learn.microsoft.com/en-us/cli/azure/install-azure-cli
